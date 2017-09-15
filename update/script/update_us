@@ -1,11 +1,10 @@
 {
-    "versionName": "2.0",
-    "versionCode": "2",
-    "tested": "yes",
+    "versionName": "3.0",
+    "versionCode": "3",
+    "tested": "no",
     "url": "https://raw.githubusercontent.com/MSay2/boo_wallpaper_json/master/update/application/app.apk",
     "release": 
     [
-        "- Added of the icon of Boo to of application header",
-        "- Small improvements"
+        "- Add of a new section Enneigé"
     ]
 }
